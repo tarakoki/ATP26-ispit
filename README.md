@@ -39,10 +39,23 @@ Ne-numerički popis
 > "Design is not just what it looks like and feels like. Design is how it works."  
 > — Steve Jobs
 
-## 📄 Dokumentacija
+### Dokumentacija
 
 - [LICENSE](LICENSE.md)
 - [CHANGELOG](CHANGELOG.md)
+
+### User Experience Design – Video
+https://www.youtube.com/watch?v=ODpB9-MCa5s&pp=ygUWVXNlciBFeHBlcmllbmNlIERlc2lnbg%3D%3D
+
+### Emoji primjeri
+
+- UX dizajn 🎨
+- Istraživanje korisnika 🔍
+- Testiranje proizvoda 🧪
+- GitHub Pages 🌐
+
+>  **Napomena:**  
+> Ova dokumentacija izrađena je u edukativne i ispitne svrhe.
 
 
 ## History
