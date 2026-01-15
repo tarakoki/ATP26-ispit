@@ -39,6 +39,11 @@ Ne-numerički popis
 > "Design is not just what it looks like and feels like. Design is how it works."  
 > — Steve Jobs
 
+## 📄 Dokumentacija
+
+- [LICENSE](LICENSE.md)
+- [CHANGELOG](CHANGELOG.md)
+
 
 ## History
 User experience design is a conceptual design discipline rooted in human factors and ergonomics. This field since the late 1940s has focused on the interaction between human users, machines, and contextual environments to design systems that address the user's experience.[4] User experience became a positive insight for designers in the early 1990s with the proliferation of workplace computers.[citation needed] Don Norman, a professor and researcher in design, usability, and cognitive science, coined the term "user experience", and brought it to a wider audience that is inside our modernized society.[5]
@@ -101,3 +106,4 @@ Once a solid and stable framework is established, wireframes are translated from
 
 User research
 User research is the systematic study of target users and their requirements in order to add realistic contexts and insights to the design process. It commonly involves methods such as interviews, surveys, field studies, and contextual inquiry. The data gathered from user research helps designers understand user goals, behaviors, and pain points, which in turn informs design decisions throughout the product lifecycle.[24] By grounding design choices in evidence rather than assumptions, user research reduces the risk of creating products that fail to meet user needs. It also supports the creation of user personas and scenarios, which help maintain a user-centered focus during design and development.[25]
+
