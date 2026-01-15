@@ -6,6 +6,40 @@ This article needs additional citations for verification. (March 2012)
 This article may incorporate text from a large language model. (November 2025)
 User experience design (UX design, UXD, UED, or XD), upon which is the centralized requirements for "User Experience Design Research" (also known as UX Design Research), defines the experience a user would go through when interacting with a company, its services, and its products.[1] User experience design is a user centered design approach because it considers the user's experience when using a product or platform.[2] Research, data analysis, and test results drive design decisions in UX design rather than aesthetic preferences and opinions, for which is known as UX Design Research. Unlike user interface design, which focuses solely on the design of a computer interface, UX design encompasses all aspects of a user's perceived experience with a product or website, such as its usability, usefulness, desirability, brand perception, and overall performance. UX design is also an element of the customer experience (CX), and encompasses all design aspects and design stages that are around a customer's experience.[3]
 
+### Primjer koda
+```
+<!-- Preuzeto s GitHub Gist-a -->
+<form>
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email">
+  <button type="submit">Submit</button>
+</form>
+```
+
+### Linkovi slika
+
+### Popisi
+Numerički popis
+ 1. Istraživanje korisnika
+ 2. Dizajn sučelja
+ 3. Testiranje proizvoda
+
+Ne-numerički popis
+ - UX dizajn
+ - UI dizajn
+ - User research
+
+### Tablica
+| Naziv projekta | Verzija | Autor       | Datum | Tehnologije                    |
+| -------------- | ------- | ----------- | ----- | ------------------------------ |
+| ATP26 Ispit    | 1.0     | Tara Kokić | 2026  | Markdown, GitHub, GitHub Pages |
+
+
+### Citat
+> "Design is not just what it looks like and feels like. Design is how it works."  
+> — Steve Jobs
+
+
 ## History
 User experience design is a conceptual design discipline rooted in human factors and ergonomics. This field since the late 1940s has focused on the interaction between human users, machines, and contextual environments to design systems that address the user's experience.[4] User experience became a positive insight for designers in the early 1990s with the proliferation of workplace computers.[citation needed] Don Norman, a professor and researcher in design, usability, and cognitive science, coined the term "user experience", and brought it to a wider audience that is inside our modernized society.[5]
 
